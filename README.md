@@ -16,8 +16,8 @@ Projeyi kullanarak, kendi bilgilerini ekleyebilir ve profesyonel görünümlü b
 # Örnek içerik:
 
 İsim: Bennu Dal
-Email: bennudal2007@icloud.com
-Telefon: +90 505 008 59 21
+Email: bennudal7@icloud.com
+Telefon: +90 545 158 39 61
 Adres: Kırklareli, Türkiye
 İş Deneyimi:
 2020-2021 | Stajyer Yazılım Mühendisi – XYZ Yazılım, Tekirdağ
